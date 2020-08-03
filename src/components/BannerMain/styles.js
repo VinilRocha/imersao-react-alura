@@ -12,20 +12,26 @@ export const ContentAreaContainer = styled.section`
   @media (max-width: 800px) {
     padding-top: 100px;
     flex-direction: column;
+    padding-bottom: 4em;
   }
 `;
 
 ContentAreaContainer.Item = styled.div`
   width: 50%;
   display: inline-block;
-  margin-bottom: 50px;
+  &:first-of-type{
+    padding-right: 5em;
+    @media (max-width: 800px) {
+      padding-right: 0;
+    }
+  }
   @media (max-width: 800px) {
     width: 100%;
   }
 `;
 
 ContentAreaContainer.Category = styled.h1`
-  font-family: Roboto;
+  font-family: 'Press Start 2P';
   font-style: normal;
   font-weight: normal;
   font-size: 60px;
@@ -52,29 +58,32 @@ ContentAreaContainer.Description = styled.p`
 `;
 
 ContentAreaContainer.Title = styled.h2`
+  font-family: 'Press Start 2P';
   font-style: normal;
-  font-weight: 300;
-  font-size: 40px;
-  line-height: 1;
-  margin-top: 0;
-  margin-bottom: 32px;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0;
+  text-transform: uppercase;
 
   @media (max-width: 800px) {
-    font-size: 32px;
-    text-align: center;
+    font-size: 22px;
   }
 `;
 
 export const BannerMainContainer = styled.section`
-  height: 80vh;
+  height: 30em;
   position: relative;
   color: #fff;
   background-image: ${({ backgroundImage }) => `url(${backgroundImage})`}; 
   background-size: cover;
   background-position: center;
+  padding-top: 5em;
+  top: -5em;
   @media (max-width: 800px) {
     height: auto;
     min-height: 50vh;
+    margin-bottom: -5em;
   }
 
   &:after,
@@ -89,19 +98,18 @@ export const BannerMainContainer = styled.section`
   }
 
   &:before {
-    top: 0;
+    top: 0em;
     height: 100%;
-    background: rgba(0,0,0,0.5);
+    background-image: linear-gradient(to bottom,#9c4cb0,rgb(144 76 172 / 0.98),rgb(132 76 167 / 0.98),rgb(120 75 162 / 0.98),rgb(109 74 156 / 0.95),rgb(105 74 156 / 0.93),rgb(101 73 155 / 0.93),rgb(97 73 155 / 0.90),rgb(99 74 161 / 0.90),rgb(100 74 166 / 0.88),rgb(102 75 172 / 0.88),rgb(103 75 178 / 0.88));
   }
 
   &:after {
     bottom: 0;
-    background: linear-gradient(0deg, #141414 0%, transparent 100%);
+    background: linear-gradient(0deg,#7162ae 5%,transparent 100%);
   }
 `;
 
 export const WatchButton = styled.button`
-  font-family: 'Roboto', sans-serif;
   box-sizing: border-box;
   cursor: pointer;
   padding: 16px 24px;
@@ -112,13 +120,14 @@ export const WatchButton = styled.button`
   border-radius: 5px;
   text-decoration: none;
   display: inline-block;
-  border: 1px solid transparent;
+  border: none;
   color: var(--black);
   background: var(--white);
   border-color: var(--black);
   transition: opacity .3s;
   display: none;
   margin: 0 auto;
+  margin-top: 3em;
   @media (max-width: 800px) {
     display: block;
   }

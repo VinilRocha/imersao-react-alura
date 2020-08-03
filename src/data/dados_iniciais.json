@@ -1,183 +1,175 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Lo-fi",
+      "link": "#",
+      "cor": "var(--primary)",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "1 hour of aesthetic & calm lofi music 🌙",
+          "url": "https://www.youtube.com/watch?v=W6YI3ZFOL0A"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Feel so alone 💭 Sad lofi hip hop mix",
+          "url": "https://www.youtube.com/watch?v=zqmIUKoe-q0"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Lo-fi for Ghosts (Only)",
+          "url": "https://www.youtube.com/watch?v=2GjPQfdQfMY"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "The Ocean inside You 🌊 lofi hip hop mix",
+          "url": "https://www.youtube.com/watch?v=VXE1l_BiSD8"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "lofi hip hop - brazil songs playlist",
+          "url": "https://www.youtube.com/watch?v=ZhstyJSNKME"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Brazil Lofi 8D - lofi hip hop mix 8D",
+          "url": "https://www.youtube.com/watch?v=PX2Yvv7cX3Q"
+        }     
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Chillout",
+      "cor": "var(--pink-1)",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "ＣＨＩＬＬＯＵＴ",
+          "url": "https://www.youtube.com/watch?v=EnHkibxvdfU"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Avatar: The Last Airbender☁️ ~ 1 HOUR OF LOFI CHILLOUT MUSIC | Vol.1",
+          "url": "https://www.youtube.com/watch?v=D-ya6U-pbWo"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "https://www.youtube.com/watch?v=-kBhum7f4rI",
+          "url": "https://www.youtube.com/watch?v=-kBhum7f4rI"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+          "titulo": "ＣＨＩＬＬ ＰＩＣＫＬＥ",
+          "url": "https://www.youtube.com/watch?v=GoH_lNU-rRU"
+        },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Chill Music Mix 2020 🍃Best Music Chill Out Mix #1",
+          "url": "https://www.youtube.com/watch?v=RLWcYADoV84"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Ambient",
+      "cor": "var(--pink-3)",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "'Infinite' Ambient Mix",
+          "url": "https://www.youtube.com/watch?v=n0svuurLibQ"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "4 Hours of Ambient Study Music To Concentrate - Improve your Focus and Concentration",
+          "url": "https://www.youtube.com/watch?v=4GnVDPD01as"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Rainy Night Coffee Shop Ambience with Relaxing Jazz Music and Rain Sounds - 8 Hours",
+          "url": "https://www.youtube.com/watch?v=c0_ejQQcrwI"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Replacement | Beautiful Ambient Mix",
+          "url": "https://www.youtube.com/watch?v=lNn18F51bfo"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "TripHop",
+      "cor": "var(--purple-2)",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Best of Trip-Hop & Downtempo & Lo-Fi & Nujazz Tracks I Missed Re-Re-Upload",
+          "url": "https://www.youtube.com/watch?v=F3OFIuIXcSo"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Interstellar: A Trip Hop Mix",
+          "url": "https://www.youtube.com/watch?v=kjPTQLgGpq8"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Best of Trip Hop & Downtempo & Lofi & Hip Hop Instrumental Vol 3 Re Upload",
+          "url": "https://www.youtube.com/watch?v=PQQHuUGiOG8"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Best of Trip-Hop & Downtempo & Hip-Hop Instrumental Vol. 2 Re-Upload",
+          "url": "https://www.youtube.com/watch?v=gHSN4DmjPas"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "JazzHop",
+      "cor": "var(--pink-2)",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Dreamscape. [Lofi / Jazz Hop / Chillhop]",
+          "url": "https://www.youtube.com/watch?v=YAgFLTm1Iig"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Manhattan | JazzHop",
+          "url": "https://www.youtube.com/watch?v=50JJZIKdj0s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Swing Beats [Jazz Hop / Lo Fi / Chill Mix]",
+          "url": "https://www.youtube.com/watch?v=uZ6_ISALjcQ"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Jazz Cloud | Lofi & JazzHop",
+          "url": "https://www.youtube.com/watch?v=hyYnAioXOqQ"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "DownTown | Jazzhop",
+          "url": "https://www.youtube.com/watch?v=GGBm9gTY2NU"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Chillhop",
+      "cor": "var(--purple-1)",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Aiguille - Day And Night [Instrumental Chill Beats]",
+          "url": "https://www.youtube.com/watch?v=XAj5keXxE1Y"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Concentrate Your Mind | lofi hip hop | Chillhop, Jazzhop, Chillout | [Study/Sleep/Game]",
+          "url": "https://www.youtube.com/watch?v=BnSjnz_mSxk"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Chill Study Beats 2 • Instrumental & Jazz Hip Hop Music [2016]",
+          "url": "https://www.youtube.com/watch?v=gwDoRPcPxtc"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "🌴Chillhop Essentials - Summer 2019 - chill & groovy beats",
+          "url": "https://www.youtube.com/watch?v=n5uz7egB9tA"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Chillhop Yearmix 2019 ☕️ jazz beats & lofi hip hop",
+          "url": "https://www.youtube.com/watch?v=s49CT4DTAkw"
         }
       ]
     }

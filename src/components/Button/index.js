@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const Button = styled.a`
-    color: var(--black);
+    color: var(--white);
     box-sizing: border-box;
     cursor: pointer;
     padding: 8px 24px;
@@ -12,14 +12,14 @@ const Button = styled.a`
     display: inline-block;
     transition: all .5s;
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: bold;
-    background-color: var(--primary);
+    background-color: ${({ backgroundColor }) => `${backgroundColor}`};
     backface-visibility: hidden;
 
     &:hover,
     &:focus {
-        background-color: var(--purple-3);
+        background-color: var(--pink-1) !important;
         transform: translateY(-.1em);
     }
 
@@ -28,10 +28,13 @@ const Button = styled.a`
         left: 0;
         right: 0;
         bottom: 0;
-        background: var(--primary);
+        background: var(--pink-2);
         border-radius: 0;
         border: 0;
         text-align: center;
+        font-size: .9em;
+        padding: 1em;
+        box-shadow:0px -5px 14px 2px rgb(0 0 0 / 28%);
     }
 `;
 

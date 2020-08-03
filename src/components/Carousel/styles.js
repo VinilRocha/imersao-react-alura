@@ -3,14 +3,13 @@ import styled from 'styled-components';
 export const Title = styled.h3`
   font-style: normal;
   font-weight: normal;
-  font-size: 35px;
-  line-height: 1;
-  margin-bottom: 16px;
+  font-size: 16px;
   display: inline-block;
-  padding: 20px;
-  background: red;
+  padding: 1em 2em;
   line-height: 1;
   border-radius: 4px;
+  font-family: 'Press Start 2P';
+  text-transform: uppercase;
 
   @media (max-width: 800px) {
     font-size: 18px;
@@ -41,10 +40,7 @@ export const VideoCardList = styled.ul`
   display: flex;
   overflow-x: auto;
   flex-direction: row;
-  
-  li {
-    margin-right: 16px;
-  }
+  padding-top: 1em;
 `;
 
 export const VideoCardGroupContainer = styled.section`

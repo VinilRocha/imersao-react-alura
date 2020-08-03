@@ -23,6 +23,12 @@ html,
 body {
   margin: 0;
   padding: 0;
+  font-size: 125%;
+}
+
+body{
+  background-image: linear-gradient(to top, rgb(156, 76, 176), rgb(153, 90, 186), rgb(149, 103, 194), rgb(147, 116, 202), rgb(145, 127, 208), rgb(140, 126, 205), rgb(136, 124, 201), rgb(131, 123, 198), rgb(122, 110, 185), rgb(113, 97, 173), rgb(104, 85, 160), rgb(95, 72, 148));
+  min-height: 100vh;
 }
 
 a {

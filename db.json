@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "ChillTrap",
+            "descricao": "ChillTrap Chill Beats",
+            "cor": "#9074D9"
+        },
+        {
+            "id": 2,
+            "nome": "Downtempo",
+            "descricao": "Downtempo Beats",
+            "cor": "#BEA1D4"
+        }
+    ]
+}
